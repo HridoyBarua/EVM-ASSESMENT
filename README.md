@@ -11,3 +11,9 @@ Just click the <> code button to start the program, and you'll be able to downlo
 
 ### Executing Program
 Paste the file you downloaded into RemixIDE to launch the program.Next After assembling the code, run it.Click on the address part after deployment, add your account, and enter the value you wish to increase in the mint function. Click on Mint, and you will see that your total supply has increased. In a similar manner, you can carry out the burn function for your token and alter its name, abbreviation, and total supply in ways such as
+
+```
+string public token_Name = "Hridoy";
+    string public token_Abbrv = "HRI";
+    uint public total_Supply = 0;
+```
